@@ -69,7 +69,7 @@ printer.println(dice)
 
 printer.feed(3)
 
-
+#testing
 printer.sleep()      # Tell printer to sleep
 #printer.wake()       # Call wake() before printing again, even if reset
 printer.setDefault() # Restore printer to defaults
